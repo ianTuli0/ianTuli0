@@ -31,11 +31,11 @@ My daily routine consists of studying tools and languages to improve my knowledg
 | **Angular** | **Bootstrap** | **HTML** | **CSS** |
 
 ##
+### Contact Me
 
-### 📬 Contact Me
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ian_tulio0-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/ian-tulio0/)  
-[![Email](https://img.shields.io/badge/Email-ianrtulio%40gmail.com-red?style=social&logo=gmail)](mailto:ianrtulio@gmail.com)
+
 
 
 
